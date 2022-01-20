@@ -1,5 +1,5 @@
 # php-telegram-notifier
-Produced by SharkovIvan: https://github.com/SharkovIvan/php-telegram-notifier/
+Produced by SharkovIvan: https://github.com/SharkovIvan/
 
 Website: http://0pl.ru
 
